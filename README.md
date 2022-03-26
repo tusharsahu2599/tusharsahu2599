@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **Postman-clone**
+- 🤝 I’m looking for help with **React-Projects**
 
 - 💬 Ask me about **JavaScript, React, Node**
 
