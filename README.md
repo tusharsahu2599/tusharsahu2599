@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tksahu1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H08bwDDtPX0422uX1svMEH1xnSEEX1Zt/view?usp=sharing](https://drive.google.com/file/d/1gMO5k6sMeBLoh9jCggFgsxMVynQgLoYA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H08bwDDtPX0422uX1svMEH1xnSEEX1Zt/view?usp=sharing](https://drive.google.com/file/d/1H08bwDDtPX0422uX1svMEH1xnSEEX1Zt/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm cool**
 
