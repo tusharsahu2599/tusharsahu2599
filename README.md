@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsahu2599" alt="tusharsahu2599" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tushars2526" target="blank"><img src="https://img.shields.io/twitter/follow/tushars2526?logo=twitter&style=for-the-badge" alt="tushars2526" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - 🤝 I’m looking for help with **React-Projects**
