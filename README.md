@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsahu2599" alt="tusharsahu2599" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working as a **Software Engineer**
 
-- 🤝 I’m looking for help with **React-Projects**
+- 🤝 I’m looking for help with **MERN STACK-Projects**
 
-- 💬 Ask me about **JavaScript, React, Node**
+- 💬 Ask me about **JavaScript, React, Node,**
 
 - 📫 How to reach me **tksahu1234@gmail.com**
 
