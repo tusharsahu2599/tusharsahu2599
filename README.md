@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a **Software Engineer**
 
-- 🤝 I’m looking for help with **MERN STACK-Projects ONDC Projects ( Retail Buyer / Seller , Finance, Logistics)**
+- 🤝 I’m looking for help with **FULL STACK-Projects, ONDC Projects ( Retail Buyer / Seller , Finance, Logistics)**
 
 - 💬 Ask me about **JavaScript, React, NodeJs, NestJs, KafkaJs, TypeScript, Java**
 
