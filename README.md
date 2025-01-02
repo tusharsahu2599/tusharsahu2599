@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Sahu</h1>
-<h3 align="center">I am a Mern Stack developer</h3>
+<h3 align="center">I am a Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsahu2599&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsahu2599" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharsahu2599" alt="tusharsahu2599" /></a> </p>
-
 - 🌱 I’m currently working as a **Software Engineer**
 
-- 🤝 I’m looking for help with **MERN STACK-Projects**
+- 🤝 I’m looking for help with **MERN STACK-Projects ONDC Projects ( Retail Buyer / Seller , Finance, Logistics)**
 
-- 💬 Ask me about **JavaScript, React, Node,**
+- 💬 Ask me about **JavaScript, React, NodeJs, NestJs, KafkaJs, TypeScript, Java**
 
 - 📫 How to reach me **tksahu1234@gmail.com**
 
