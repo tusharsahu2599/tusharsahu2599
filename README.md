@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsahu2599&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsahu2599" /> </p>
 
-- 🌱 I’m currently working as a **Software Engineer**
+- 🌱 I’m currently working as a **Senior Software Engineer**
 
-- 🤝 I’m looking for help with **FULL STACK-Projects, ONDC Projects ( Retail Buyer / Seller , Finance, Logistics)**
+- 🤝 I’m looking for help with **FULL STACK-Projects with AI, ONDC Projects ( Retail Buyer / Seller , Finance, Logistics)**
 
-- 💬 Ask me about **JavaScript, React, NodeJs, NestJs, KafkaJs, TypeScript, Java**
+- 💬 Ask me about **JavaScript, React, NodeJs, NestJs, KafkaJs, TypeScript, Python, FastAPI**
 
 - 📫 How to reach me **tksahu1234@gmail.com**
 
